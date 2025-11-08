@@ -13,5 +13,10 @@ window.WEBRING_SITES = [
         "url": "https://passo.uno",
         "name": "Passo.uno",
         "description": "Fabrizio Ferri-Benedetti blog"
+    },
+    {
+        "url": "https://jamestasse.tech/",
+        "name": "James Tasse",
+        "description": "Portfolio. Blog. ?"
     }
 ];

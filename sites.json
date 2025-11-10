@@ -33,5 +33,10 @@ window.WEBRING_SITES = [
         "url": "https://damilola-oladele.dev/",
         "name": "Damilola Oladele",
         "description": "Damilola Oladele's blog and portfolio site"
+    },
+    {
+        "url": "https://instructionmanuel.com",
+        "name": "Instruction Manuel",
+        "description": "Manny Silva's miscellaneous thoughts (a blog)"
     }
 ];

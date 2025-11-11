@@ -46,7 +46,7 @@ window.WEBRING_SITES = [
     },
     {
         "url": "https://edmar.sh/",
-        "name": "Ed Marsh",
-        "description": "Portfolio, blog, and podcast"
+        "name": "Ed Marsh&mdash;Technical writer, mentor, content strategist, podcaster",
+        "description": "Living portfolio, blog, and podcast"
     }
 ];

@@ -23,5 +23,10 @@ window.WEBRING_SITES = [
         "url": "https://jamestasse.tech/",
         "name": "James Tasse",
         "description": "Portfolio. Blog. ?"
+    },
+    {
+        "url": "https://edmar.sh/",
+        "name": "Ed Marsh",
+        "description": "Portfolio, blog, and podcast"
     }
 ];

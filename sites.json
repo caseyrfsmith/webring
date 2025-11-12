@@ -43,5 +43,10 @@ window.WEBRING_SITES = [
         "url": "https://thisisimportant.net/",
         "name": "This is important",
         "description": "Sarah Moir's blog"
+    },
+    {
+        "url": "https://thenotboringtechwriter.com/",
+        "name": "The Not-Boring Tech Writer",
+        "description": "Kate Mueller's podcast"
     }
 ];

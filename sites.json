@@ -78,5 +78,15 @@ window.WEBRING_SITES = [
         "url": "https://technicalwriting.dev",
         "name": "technicalwriting.dev",
         "description": "Field notes from the frontier of technical writing"
+    },
+    {
+        "url": "https://bufferbuffer.com",
+        "name": "BufferBuffer",
+        "description": "Jose Luis Zapata's (mis)adventures of a technical writer"
+    },
+    {
+        "url": "https://technicalwriting.link",
+        "name": "Technical Writing links",
+        "description": "A simple page with useful resources for technical writers in the software industry."
     }
 ];

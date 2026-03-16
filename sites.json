@@ -103,5 +103,10 @@ window.WEBRING_SITES = [
         "url": "https://beingtechnicalwriter.com",
         "name": "Gaurav Trivedi",
         "description": "Gaurav Trivedi's blog"
+    }    ,
+    {
+        "url": "https://toninotes.cc/",
+        "name": "Toni Notes",
+        "description": "Practical essays on digital publishing, creator workflows, useful tools, and sustainable online work"
     }
 ];

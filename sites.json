@@ -103,5 +103,10 @@ window.WEBRING_SITES = [
         "url": "https://beingtechnicalwriter.com",
         "name": "Gaurav Trivedi",
         "description": "Gaurav Trivedi's blog"
+    },
+    {
+        "url": "https://cynical.me",
+        "name": "kingzee",
+        "description": "kingzee's blog"
     }
 ];

@@ -128,5 +128,10 @@ window.WEBRING_SITES = [
         "url": "https://khanum49.github.io/rabiah-portfolio/",
         "name": "Rabiah Khanum",
         "description": "Rabiah's technical writing blog with an engineer's obsession for getting it right."
+    },
+	    {
+        "url": "https://lukicdejan.com/",
+        "name": "Dejan Lukić",
+        "description": "A software developer turned technical writer & documentation architect."
     }
 ];
